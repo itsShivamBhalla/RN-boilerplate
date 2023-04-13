@@ -1,0 +1,5 @@
+{
+  "COUPON_STATUS_LIVE": "Live",
+  "COUPON_STATUS_SCHEDULED": "Scheduled",
+  "COUPON_STATUS_EXPIRED": "Expired"
+}
